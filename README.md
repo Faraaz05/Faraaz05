@@ -57,9 +57,8 @@
 
 ### `[ root_access // featured_projects ]`
 
-* [**High-Performance Reverse Proxy**](https://github.com/Faraaz05) - *Engineered from scratch in C++ to handle heavy traffic loads and complex routing efficiently.*
-* [**Vector Trace**](https://github.com/Faraaz05) - *An advanced GenAI Retrieval-Augmented Generation (RAG) system.*
-* [**Chatbot-For-Charusat**](https://github.com/Faraaz05/College-Chatbot) - *Automating and streamlining campus interactions.*
+* [**High-Performance Reverse Proxy**]([https://github.com/Faraaz05](https://github.com/Faraaz05/L7-HTTP-Reverse-Proxy-Load-Balancer)) - *Engineered from scratch in C++ to handle heavy traffic loads and complex routing efficiently.*
+* [**Vector Trace**]([https://github.com/Faraaz05](https://github.com/Faraaz05/rag-fastapi)) - *An advanced GenAI Retrieval-Augmented Generation (RAG) system.*
 
 ---
 
